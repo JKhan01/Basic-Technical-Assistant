@@ -8,7 +8,7 @@ Once you have the proper pip version installed you can run the following command
 2. Installing the pyaudio file
  * pip install PyAudio
 3. Installing google search library
- * pip install google-search
+ * pip install google
 4. Installing text to speech library
  * pip install pyttsx3
 
